@@ -1,19 +1,19 @@
 {
-    "name":"Meliverse Listing",
+    "name":"HoyoToon Listing",
     "id":"com.melioli.meliverse-listing",
-    "url":"https://melioli.github.io/vpm/index.json",
+    "url":"https://hoyotoon.github.io/vpm/index.json",
     "author":{
         "email":"no@no.com",
         "name":"Meliodas",
         "url":"https://github.com/Melioli"
     },
-    "description":"Meliverse VPM Packages",
+    "description":"HoyoToon VPM Packages",
     "infoLink":{
-        "url":"https://github.com/Melioli/vpm",
+        "url":"https://github.com/Hoyotoon/vpm",
         "text":"View on GitHub"
     },
     "bannerUrl":"https://hoyotoon.com/images/HoyoToonBannerLite.png",
     "githubRepos":[
-        "Melioli/HoyoToon"
+        "Hoyotoon/HoyoToon"
     ],
 }
